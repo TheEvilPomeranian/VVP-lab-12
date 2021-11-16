@@ -181,7 +181,7 @@ int main() {
 			break;
 		case 0:	nap = 'S';
 			break;
-		case 1:	nap = 'N';
+		case 1:	nap = 'W';
 			break;
 		}
 		break;
